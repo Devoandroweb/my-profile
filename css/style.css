@@ -39,7 +39,9 @@
 *::after {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
-
+.cursor-pointer{
+  cursor: pointer;
+}
 html {
   font-family: sans-serif;
   line-height: 1.15;
